@@ -52,5 +52,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/koji--/Acme-LightNovel/issues"
+      },
+      "homepage" : "https://github.com/koji--/Acme-LightNovel",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/koji--/Acme-LightNovel.git",
+         "web" : "https://github.com/koji--/Acme-LightNovel"
+      }
+   },
    "version" : "0.01"
 }
